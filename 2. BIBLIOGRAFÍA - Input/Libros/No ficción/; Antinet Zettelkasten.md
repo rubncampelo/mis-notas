@@ -12,14 +12,12 @@ Updated:
 ![rw-book-cover](https://m.media-amazon.com/images/I/81KZ75hMujL._SY160.jpg)
 
 ## Metadata
-- Autor: @Scott P. Scheper
+- Autor: Scott P. Scheper
 - Título entero: Antinet Zettelkasten
 - Cita APA: Scheper, S. P. (2022). _Antinet Zettelkasten. A Knowledge System That Will Turn You  Into a Prolific Reader, Researcher and Writer_. Greenlamp.
-
-## Temporary notes
-- Luhmann no eliminaba nada. Cuando algo estaba demasiado desordenado, añadía una nueva nota después de la anterior.
-- Cuando se construye un Zettlekasten, hay que tener en cuenta el propósito para el que se hace.
-
+## Resumen
+Libro que detalla los "beneficios" de utilizar un sistema analógico de almacenaje y desarrollo de ideas.
+No lo he acabado porque en el momento en el que empieza a explicar cómo crear el sistema ya no me parece útil.
 ## Subrayados
 <mark style="background: #FFF3A3A6;">the true nature of Zettelkasten is not an information storage system; it’s a Knowledge Development System</mark>—more specifically, it’s an Analog Knowledge Development system ([Location 131](https://readwise.io/to_kindle?action=open&asin=B0BPN3W6RP&location=131)) ^ref-3
   - Nota: [; Antinet Zettelkasten#^nota-3]({{< ref "; Antinet Zettelkasten#^nota-3" >}})
